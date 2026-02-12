@@ -30,6 +30,6 @@ streamlit run app.py
 Dashboard:
 
 <img width="538" height="379" alt="Sales-dash-1" src="https://github.com/user-attachments/assets/e7beac87-c4d9-4535-b695-aaee5ee8b878" />
-<img width="538" height="377" alt="Sales-dash-2" src="https://github.com/user-attachments/assets/d282b035-efba-4c1f-ae93-48691576850f" />
+<img width="578" height="379" alt="Sales-dash-2" src="https://github.com/user-attachments/assets/d282b035-efba-4c1f-ae93-48691576850f" />
 
 
